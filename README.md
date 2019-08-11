@@ -1,2 +1,5 @@
-# openrestyApi
-demo
+# openresty
+
+simple lua+nginx api 
+
+
